@@ -24,14 +24,14 @@ body {
 /* Write all remaining styles here */
 
 header a {
-	text-decoration: none;
-	color: rgb(152, 173, 166);
+	/* text-decoration: none;
+	color: rgb(152, 173, 166); */
 }
 
 h1 {
 	padding-bottom: 10px;
 	font-size: 5em;
-	font-weight: bold;
+	font-weight: normal;
 	font-family: Baskerville, serif;
 }
 
