@@ -24,8 +24,8 @@ body {
 /* Write all remaining styles here */
 
 header a {
-	/* text-decoration: none;
-	color: rgb(152, 173, 166); */
+	* text-decoration: none;
+	color: rgb(152, 173, 166); *
 }
 
 h1 {
