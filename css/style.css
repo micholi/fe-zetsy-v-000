@@ -28,9 +28,9 @@ header a {
 }
 
 h1 {
-	font-size: 5em;
+	/* font-size: 5em;
 	font-weight: bold;
-	font-family: Baskerville, serif;
+	font-family: Baskerville, serif; */
 }
 
 #featured img {
