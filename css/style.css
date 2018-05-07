@@ -24,8 +24,8 @@ body {
 /* Write all remaining styles here */
 
 header a {
-	* text-decoration: none;
-	color: rgb(152, 173, 166); *
+	 text-decoration: none;
+	color: rgb(152, 173, 166);
 }
 
 h1 {
@@ -57,7 +57,7 @@ p {
 }
 
 footer {
-	font-size: 0.75em;
+	font-size: 0.8em;
 	text-align: right;
 	margin-top: 15px;
 }
