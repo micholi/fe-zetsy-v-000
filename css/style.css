@@ -45,8 +45,12 @@ p {
 }
 
 header a {
-	text-decoration: none;
 	color: rgb(152, 173, 166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(152, 127, 122)
 }
 
 #featured img {
