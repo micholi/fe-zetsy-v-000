@@ -21,10 +21,11 @@ body {
 
 header a {
 	text-decoration: none;
+	color: rgb(152, 173, 166);
 }
 
 h1 {
-	color: rgb(152, 173, 166);
+
 	font-size: 5em;
 	font-weight: bold;
 	font-family: Baskerville, serif;
