@@ -25,10 +25,13 @@ header a {
 }
 
 h1 {
-
 	font-size: 5em;
 	font-weight: bold;
 	font-family: Baskerville, serif;
+}
+
+h2 {
+	font-weight: bold;
 }
 
 #featured img {
