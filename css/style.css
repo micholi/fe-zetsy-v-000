@@ -20,17 +20,18 @@ body {
 /* Write all remaining styles here */
 
 header a {
-	rgb(152, 173, 166);
+	/* rgb(152, 173, 166);
 	text-decoration: none;
 	font-size: 5em;
 	font-weight: normal;
-	font-family: Baskerville, serif;
+	font-family: 'Baskerville', serif; */
 }
 
 h1 {
-	/* font-size: 5em;
+	rgb(152, 173, 166);
+	font-size: 5em;
 	font-weight: bold;
-	font-family: Baskerville, serif; */
+	font-family: Baskerville, serif;
 }
 
 #featured img {
